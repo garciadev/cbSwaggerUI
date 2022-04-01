@@ -1,37 +1,37 @@
 {
-  "author": "Daniel Garcia",
-  "bugs": "https://github.com/garciadev/cbSwaggerUI/issues",
-  "changelog": "",
-  "contributors": [],
-  "dependencies": {},
-  "description": "",
-  "devDependencies": {},
-  "documentation": "https://github.com/garciadev/cbSwaggerUI",
-  "homepage": "https://github.com/garciadev/cbSwaggerUI",
-  "projectURL": "https://github.com/garciadev/cbSwaggerUI",
-  "ignore": [],
-  "installPaths": {},
-  "instructions": "",
-  "keywords": "SwaggerUI,Swagger",
-  "license": [
-    {
-      "type": "Apache License 2.0",
-      "URL": "https://github.com/swagger-api/swagger-ui/blob/master/LICENSE"
-    }
-  ],
-  "name": "Swagger UI Documentation for ColdBox",
-  "private": false,
-  "repository": {
-    "type": "GIT",
-    "URL": "https://github.com/garciadev/cbSwaggerUI"
-  },
-  "location": "forgeboxstorage",
-  "scripts": {
-    "onRelease": "publish",
-    "postPublish": "!git push --follow-tags"
-  },
-  "shortDescription": "Display the Swagger UI for a Swagger JSON file. Defaults to /cbswagger",
-  "slug": "cbSwaggerUI",
-  "type": "modules",
-  "version": "0.0.0"
+    "author":"Daniel Garcia",
+    "bugs":"https://github.com/garciadev/cbSwaggerUI/issues",
+    "changelog":"",
+    "contributors":[],
+    "dependencies":{},
+    "description":"",
+    "devDependencies":{},
+    "documentation":"https://github.com/garciadev/cbSwaggerUI",
+    "homepage":"https://github.com/garciadev/cbSwaggerUI",
+    "projectURL":"https://github.com/garciadev/cbSwaggerUI",
+    "ignore":[],
+    "installPaths":{},
+    "instructions":"",
+    "keywords":"SwaggerUI,Swagger",
+    "license":[
+        {
+            "type":"Apache License 2.0",
+            "URL":"https://github.com/swagger-api/swagger-ui/blob/master/LICENSE"
+        }
+    ],
+    "name":"Swagger UI Documentation for ColdBox",
+    "private":false,
+    "repository":{
+        "type":"GIT",
+        "URL":"https://github.com/garciadev/cbSwaggerUI"
+    },
+    "location":"forgeboxstorage",
+    "scripts":{
+        "onRelease":"publish",
+        "postPublish":"!git push --follow-tags"
+    },
+    "shortDescription":"Display the Swagger UI for a Swagger JSON file. Defaults to /cbswagger",
+    "slug":"cbSwaggerUI",
+    "type":"modules",
+    "version":"1.0.0"
 }
