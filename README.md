@@ -1,6 +1,8 @@
 # cbSwaggerUI Module
 
-Swagger UI Documentation for ColdBox. By default, it will use /cbswagger if nothing is configured.
+Swagger UI Documentation for ColdBox. It will use the Swagger JSON from the /cbswagger location by default if nothing is configured.
+
+This UI is available at **/cbSwaggerUI** - where you will see a visual representation of your Swagger docs.
 
 This module loads a standalone version of Swagger-UI.
 
