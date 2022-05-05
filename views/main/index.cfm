@@ -1,5 +1,6 @@
 <cfset prc.root = event.getModuleRoot()>
 <cfset prc.settings = getModuleSettings( "cbSwaggerUI" )>
+<cfset prc.cbox_debugger_show = false>
 
 <cfoutput>
 <!-- HTML for static distribution bundle build -->
