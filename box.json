@@ -33,5 +33,5 @@
     "shortDescription":"Display the Swagger UI for a Swagger JSON file. Defaults to /cbswagger",
     "slug":"cbSwaggerUI",
     "type":"modules",
-    "version":"1.0.1"
+    "version":"1.1.0"
 }
