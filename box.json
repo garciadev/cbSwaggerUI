@@ -15,6 +15,10 @@
     "keywords":"SwaggerUI,Swagger",
     "license":[
         {
+            "type":"Apache2",
+            "url":"http://www.apache.org/licenses/LICENSE-2.0.html"
+        },
+        {
             "type":"Apache License 2.0",
             "URL":"https://github.com/swagger-api/swagger-ui/blob/master/LICENSE"
         }
