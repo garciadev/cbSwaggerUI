@@ -26,7 +26,7 @@ component {
 
 		// Layout Settings
 		layoutSettings = {
-			defaultLayout = "Main.cfm"
+			defaultLayout = "main.cfm"
 		};
 
 		// SES Routes
