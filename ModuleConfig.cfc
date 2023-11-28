@@ -26,12 +26,12 @@ component {
 
 		// Layout Settings
 		layoutSettings = {
-			defaultLayout = "Main.cfm"
+			defaultLayout = "main.cfm"
 		};
 
 		// SES Routes
 		router.route( "/" )
-			.withHandler( "Main" )
+			.withHandler( "main" )
 			.toAction( { "GET": "index" } );
 	}
 
